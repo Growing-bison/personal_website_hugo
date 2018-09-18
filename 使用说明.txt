@@ -1,0 +1,3 @@
+本地调试：hugo server -D --watch
+生成待发布的文件：hugo --theme=academic --baseUrl="https://growing-bison.github.io"
+hugo --theme=[主题名称] --baseUrl=[github的地址，与config.toml中的一致]
